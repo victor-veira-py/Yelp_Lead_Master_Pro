@@ -1,0 +1,17 @@
+# ==============================================================================
+# LIBRERÍAS NECESARIAS PARA EL PROYECTO / LIBRARIES NEEDED FOR THE PROJECT
+# PROYECTO: Yelp Lead Master Pro
+# DESARROLLADO POR / DEVELOPED BY: VICTOR ARMANDO DE OLIVEIRA RODRÍGUEZ
+# ==============================================================================
+
+# Automatización y Navegación / Automation and Navigation
+selenium
+webdriver-manager
+undetected-chromedriver
+
+# Procesamiento de Datos y Reportes / Data Processing and Reporting
+pandas
+xlsxwriter
+
+# Nota: sqlite3 y os son parte de la librería estándar de Python.
+# Note: sqlite3 and os are part of the Python standard library.
