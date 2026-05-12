@@ -1,0 +1,26 @@
+# ==============================================================================
+# ARCHIVOS IGNORADOS / IGNORED FILES
+# PROYECTO: Yelp Lead Master Pro
+# ==============================================================================
+
+# Entorno virtual / Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Bases de datos y reportes (Carpeta Data)
+# Database and reports (Data Folder)
+data/*.db
+data/*.xlsx
+data/*.csv
+
+# Archivos de configuración sensible / Sensitive config
+.env
+
+# IDEs
+.idea/
+.vscode/
